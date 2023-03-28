@@ -15,7 +15,7 @@ The electronics are simple, just an Arduino Pro Micro clone. I got one with a US
 
 - Finish up GitHub page
 
-- Actually build the first physical set...then optimize. My first part is on the printer currently.
+- Currently in second stage of development. The first prototype had issues with two separate belts only joining to one pedal each. They would slip and the pedals would just move forward. Second attempt interconnects the belts such that pressure on the pedals tensions the belt and does not rely on the pulley to keep the pedals syncronized.
 
 - Add a nice assembly manual.
 
